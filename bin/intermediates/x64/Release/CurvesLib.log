@@ -1,0 +1,3 @@
+﻿  curves.cpp
+C:\Dev\3DCurves\CurvesLib\src\curves.cpp(74,20): warning C4018: '<': signed/unsigned mismatch
+  CurvesLib.vcxproj -> C:\Dev\3DCurves\bin\x64\Release\CurvesLib.lib
